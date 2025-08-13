@@ -1,4 +1,3 @@
-from fontTools.ttLib import TTFont
 import os, subprocess, pathlib
 
 text = open("trainer2.txt", "r+")
@@ -20,7 +19,6 @@ for font in fonts:
 #		pass
 	print(pathlib.Path(font).stem)
 	font_trunc=pathlib.Path(font).stem
-	fnt=TTFont(font)
 	for char in lines:
 		if not os.path.exists(os.path.join(pwd, f"t2i/lines[{count-len(lines)}]")):
 	                os.mkdir(os.path.join(pwd, f"t2i/lines[{count-len(lines)}]"))
