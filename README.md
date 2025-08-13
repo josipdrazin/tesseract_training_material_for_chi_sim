@@ -16,3 +16,4 @@ Chinese characters were fetched from
 https://github.com/CNurt/Chinese-character-lists
 and sorted into a training file after checking compatibility with fonts.
 
+Hope someone finds this useful even though it's very messy.
