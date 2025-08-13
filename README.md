@@ -12,5 +12,7 @@ Although it will not omit the stdout information written onto the image by text2
 mogrify -path Output/Box/File  -gravity North -chop 0x130 Input/Tiff/Image.tif
 
 but I think it's safe to delete that part from the box file while editing it.
-
+Chinese characters were fetched from 
+https://github.com/CNurt/Chinese-character-lists
+and sorted into a training file after checking compatibility with fonts.
 
