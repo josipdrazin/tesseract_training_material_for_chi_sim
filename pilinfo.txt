@@ -189,7 +189,14 @@ Features: open
 XVTHUMB
 Features: open
 --------------------------------------------------------------------
-[".blp", ".bmp", ".bufr", ".dds", ".dib", ".eps", ".ps", ".gif", ".grib", ".h5", ".hdf", ".icns", ".ico", ".im", ".jfif", ".jpe", ".jpeg", ".jpg", ".j2c", ".j2k", ".jp2", ".jpc", ".jpf", ".jpx", ".msp", ".pcx", ".apng", ".png", ".pbm", ".pfm", ".pgm", ".pnm", ".ppm", ".qoi", ".bw", ".rgb", ".rgba", ".sgi", ".icb", ".tga", ".vda", ".vst", ".tif", ".tiff", ".webp", ".emf", ".wmf", ".xbm"]
+Full list of supported formats (both R and RW mode):
 
+[".blp", ".bmp", ".bufr", ".cur", ".dcx", ".dds", ".dib", ".eps", ".ps", ".fit", ".fits", ".flc", ".fli", ".ftc", ".ftu", ".gbr", ".gif", ".grib", ".h5", ".hdf", ".icns", ".ico", ".im", ".iim", ".jfif", ".jpe", ".jpeg", ".jpg", ".j2c", ".j2k", ".jp2", ".jpc", ".jpf", ".jpx", ".mpeg", ".mpg", ".msp", ".pcd", ".pcx", ".pxr", ".apng", ".png", ".pbm", ".pfm", ".pgm", ".pnm", ".ppm", ".psd", ".qoi", ".bw", ".rgb", ".rgba", ".sgi", ".ras", ".icb", ".tga", ".vda", ".vst", ".tif", ".tiff", ".webp", ".emf", ".wmf", ".xbm", ".xpm"]
+
+
+Formats with RW mode support:
+
+[".blp", ".bmp", ".bufr", ".dds", ".dib", ".eps", ".ps", ".gif", ".grib", ".h5", ".hdf", ".icns", ".ico", ".im", ".jfif", ".jpe", ".jpeg", ".jpg", ".j2c", ".j2k", ".jp2", ".jpc", ".jpf", ".jpx", ".msp", ".pcx", ".apng", ".png", ".pbm", ".pfm", ".pgm", ".pnm", ".ppm", ".qoi", ".bw", ".rgb", ".rgba", ".sgi", ".icb", ".tga", ".vda", ".vst", ".tif", ".tiff", ".webp", ".emf", ".wmf", ".xbm"].
+Same but without quotation marks:
 [.blp, .bmp, .bufr, .dds, .dib, .eps, .ps, .gif, .grib, .h5, .hdf, .icns, .ico, .im, .jfif, .jpe, .jpeg, .jpg, .j2c, .j2k, .jp2, .jpc, .jpf, .jpx, .msp, .pcx, .apng, .png, .pbm, .pfm, .pgm, .pnm, .ppm, .qoi, .bw, .rgb, .rgba, .sgi, .icb, .tga, .vda, .vst, .tif, .tiff, .webp, .emf, .wmf, .xbm]
 
